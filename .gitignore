@@ -1,0 +1,17 @@
+.DS_Store
+.venv/
+__pycache__/
+.env
+.env.*
+!.env.example
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfplan
+*.pem
+*.key
+mlruns/
+mlartifacts/
+*.pth
+*.pt
